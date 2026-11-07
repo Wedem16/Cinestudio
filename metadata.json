@@ -1,0 +1,6 @@
+{
+  "name": "CineAI Studio",
+  "description": "Pro Cinema Color Grading and AI Video Processing Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
